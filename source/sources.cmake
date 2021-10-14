@@ -1,3 +1,9 @@
+#
+# Copyright (c) 2021 Sung Ho Park and CSOS
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
 if(INCLUDE__ADAFRUIT_BUSIO)
 
 get_filename_component(_tmp_source_dir "${ADAFRUIT_BUSIO__BASE_DIR}" ABSOLUTE)
